@@ -10,4 +10,7 @@ Sample website with plenty of files for demos
 dfsdfdsfdsf
 dsfdfdfdf
 
+## How to contribute
+Please fork this repository and then issue Pull Request for review
+
 2025 Git.tarining
